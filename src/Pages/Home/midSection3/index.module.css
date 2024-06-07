@@ -1,6 +1,7 @@
 .container{
     display: flex;
     align-items: center;
+
 }
 
 
@@ -20,4 +21,5 @@
 
 .author{
     color: #4caf4f;
+
 }
