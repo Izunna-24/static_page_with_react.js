@@ -17,7 +17,7 @@ const midSection3 = () =>{
                 Quisque vulputate odio neque, eget efficitur libero condimentum id. Curabitur id nibh id <br/>
                 sem dignissim finibus ac sit amet magna.
             </p>
-            <h3 style={{color: "#4caf4f"}}>Tim Smith</h3>
+            <h3 className={style.author}>Tim Smith</h3>
         </div>
     </>
     )
