@@ -1,0 +1,18 @@
+.partitionSection{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.part{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+
+}
+
+.mainContainer{
+    display: flex;
+    justify-content: space-evenly;
+    background: #F5F7FA;
+}

@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.rightSection{
+    display: flex;
+    flex-direction: column;
+}
+
+.rightSection button{
+    background: #4caf4f;
+    color: #fff;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 40px;
+
+}
+
