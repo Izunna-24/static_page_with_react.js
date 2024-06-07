@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    align-items: center;
+}
+
+
+
+.teslaLogo{
+    display: flex;
+    justify-content: space-between;
+
+}
+.teslaText{
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 90px;
+    padding-left: 90px;
+    padding-bottom: 100px;
+}
