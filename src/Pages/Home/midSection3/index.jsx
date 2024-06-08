@@ -6,8 +6,8 @@ const midSection3 = () =>{
     <>
         <div className={style.container}>
             <img src={image} alt="tesla logo" className={style.teslaLogo}/>
-            <div>
-                <p className={style.teslaText}>
+            <div className={style.firstDiv}>
+                <p>
                     Maecenas dignissim justo eget nulla rutrum molestie. Maecenas lobortis sem dui, <br/>
                     vel rutrum risus tincidunt ullamcorper. Proin eu enim metus. Vivamus sed libero ornare,<br/>
                     tristique quam in, gravida enim. Nullam ut molestie arcu, at hendrerit elit. Morbi laoreet <br/>
@@ -17,8 +17,10 @@ const midSection3 = () =>{
                     Suspendisse potenti. Quisque malesuada enim sapien, vitae placerat ante feugiat eget. <br/>
                     Quisque vulputate odio neque, eget efficitur libero condimentum id. Curabitur id nibh id <br/>
                     sem dignissim finibus ac sit amet magna.
+
                 </p>
-                <h3 className={style.author}>Tim Smith</h3>
+                <h3 style={{color:"green", display:"block"}}>Tim Smith</h3>
+                <p>British Dragon Boat Racing Association </p>
             </div>
 
         </div>
