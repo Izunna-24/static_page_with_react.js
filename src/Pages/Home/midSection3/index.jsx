@@ -1,6 +1,13 @@
-import image from '../../../asset/teslalogo.png'
+import image from './../../../asset/teslalogo.png';
 import style from './index.module.css'
-import logo from '../../../asset/teslalogo.png'
+import logo1 from './../../../asset/logo1.png'
+import logo2 from './../../../asset/Logo2.png'
+import logo3 from './../../../asset/logo3.png'
+import logo4 from './../../../asset/logo4.png'
+import logo5 from './../../../asset/logo5.png'
+import logo6 from './../../../asset/logo6.png'
+import right_arrow from './../../../asset/right_arrow.png'
+
 
 const midSection3 = () =>{
     return(
@@ -22,9 +29,24 @@ const midSection3 = () =>{
                 </p>
                 <h3 style={{color: "green", display: "block"}}>Tim Smith</h3>
                 <p>British Dragon Boat Racing Association </p>
-                <img src={} alt="tesla logo" className={style.teslaLogo}/>
+                <div style={{display: "flex", gap: "37px", alignItems: "center", justifyContent: "center"}}>
+                    <img src={logo1} alt=""/>
+                    <img src={logo2} alt=""/>
+                    <img src={logo3} alt=""/>
+                    <img src={logo4} alt=""/>
+                    <img src={logo5} alt=""/>
+                    <img src={logo6} alt=""/>
+                    <h4 style={{color: "#4caf4f"}}>Meet all customers</h4>
+                    <img src={right_arrow} alt=""/>
+                </div>
             </div>
 
+        </div>
+            <div style={{color: "#4d4d4d",textAlign: "center"}}>
+                <h2>Caring is the new marketing</h2>
+                <p>The Nexcent blog is the best place to read about the latest membership insights,<br/>
+                    trends and more. See who's joining the community, read about how our community<br/>
+                    are increasing their membership income and lot's more.</p>
         </div>
     </>
     )
