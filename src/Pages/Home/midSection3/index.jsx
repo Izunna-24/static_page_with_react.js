@@ -1,5 +1,6 @@
 import image from '../../../asset/teslalogo.png'
 import style from './index.module.css'
+import logo from '../../../asset/teslalogo.png'
 
 const midSection3 = () =>{
     return(
@@ -19,8 +20,9 @@ const midSection3 = () =>{
                     sem dignissim finibus ac sit amet magna.
 
                 </p>
-                <h3 style={{color:"green", display:"block"}}>Tim Smith</h3>
+                <h3 style={{color: "green", display: "block"}}>Tim Smith</h3>
                 <p>British Dragon Boat Racing Association </p>
+                <img src={} alt="tesla logo" className={style.teslaLogo}/>
             </div>
 
         </div>

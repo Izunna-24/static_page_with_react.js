@@ -1,7 +1,7 @@
 import style from "./index.module.css"
 import logo0 from "../../../asset/Logo(0).png"
 import logo1 from "../../../asset/Logo (1).png"
-import logo2 from "../../../asset/Logo (2).png"
+import logo2 from "../../../asset/oj_logo.png"
 import logo3 from "../../../asset/Logo (3).png"
 import logo4 from "../../../asset/Logo (4).png"
 import logo5 from "../../../asset/Logo (5).png"
