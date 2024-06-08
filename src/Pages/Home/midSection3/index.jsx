@@ -27,7 +27,7 @@ const midSection3 = () =>{
                     sem dignissim finibus ac sit amet magna.
 
                 </p>
-                <h3 style={{color: "green", display: "block"}}>Tim Smith</h3>
+                <h3 style={{color: "green", display: "block"}}>Tim Smith</h3
                 <p>British Dragon Boat Racing Association </p>
                 <div style={{display: "flex", gap: "37px", alignItems: "center", justifyContent: "center"}}>
                     <img src={logo1} alt=""/>
