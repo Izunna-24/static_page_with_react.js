@@ -53,8 +53,7 @@ const section_4 = () => {
                      </div>
                  </div>
                  <div style={{display: "flex", alignItems: "center", justifyContent: "center"}}>
-
-                         <h4 style={{color: "#4caf50"}}>Get a Demo</h4>
+                     <h4 style={{color: "#4caf50"}}>Get a Demo</h4>
                  </div>
              </div>
          </div>
