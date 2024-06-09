@@ -1,0 +1,22 @@
+.photoContainer{
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 90px;
+    padding-left: 90px;
+    padding-bottom: 100px;
+}
+
+.photoBox{
+    position: relative;
+}
+
+.imageText{
+    background-color: #f5f7fa;
+    position: absolute;
+    top: 190px;
+    right: 40px;
+    left: 40px;
+    bottom: -55px;
+    border-radius: 20px;
+    box-shadow: 0 10px #e6ecf2;
+}

@@ -27,7 +27,7 @@ const midSection3 = () =>{
                     sem dignissim finibus ac sit amet magna.
 
                 </p>
-                <h3 style={{color: "green", display: "block"}}>Tim Smith</h3
+                <h3 style={{color: "green", display: "block"}}>Tim Smith</h3>
                 <p>British Dragon Boat Racing Association </p>
                 <div style={{display: "flex", gap: "37px", alignItems: "center", justifyContent: "center"}}>
                     <img src={logo1} alt=""/>
@@ -41,12 +41,7 @@ const midSection3 = () =>{
                 </div>
             </div>
 
-        </div>
-            <div style={{color: "#4d4d4d",textAlign: "center"}}>
-                <h2>Caring is the new marketing</h2>
-                <p>The Nexcent blog is the best place to read about the latest membership insights,<br/>
-                    trends and more. See who's joining the community, read about how our community<br/>
-                    are increasing their membership income and lot's more.</p>
+
         </div>
     </>
     )
