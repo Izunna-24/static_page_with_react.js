@@ -2,6 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    background: #F5F7FA;
 
 }
 
@@ -12,18 +13,7 @@
     justify-content: space-between;
 
 }
-/*.teslaText{*/
-/*    display: flex;*/
-/*    justify-content: space-evenly;*/
-/*    padding-right: 90px;*/
-/*    padding-left: 90px;*/
-/*    padding-bottom: 100px;*/
-/*}*/
 
-/*.author{*/
-/*    color: #4caf4f;*/
-/*    width: 500px;*/
-/*}*/
 
 
 .firstDiv{

@@ -30,3 +30,20 @@ input::placeholder{
     gap: 20%;
 
 }
+
+@media only screen and (max-width: 796px) {
+    .footer{
+        flex-direction: column;
+    }
+    .footerSide{
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .footerSide input {
+        width: 90%;
+    }
+    .footerSide img {
+        padding-left: 50px;
+    }
+
+}

@@ -20,3 +20,8 @@
 
 }
 
+@media only screen and (max-width: 796px) {
+    .container > img{
+        display: none;
+    }
+}
